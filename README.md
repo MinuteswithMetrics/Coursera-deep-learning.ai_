@@ -1,4 +1,4 @@
-# Deep Learning specialization by Deeplearning.ai|Cousera
+# Deep Learning specialization by Deeplearning.ai | Cousera
 
 https://www.coursera.org/specializations/deep-learning
 
