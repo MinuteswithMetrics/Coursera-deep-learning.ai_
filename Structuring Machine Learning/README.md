@@ -30,7 +30,7 @@ This is the third course of the Deep Learning Specialization.
 - [x] Avoidable bias
 - [x] Understanding human-level performance
 - [x] Surpassing human-level performance
-- [x]Improving your model performance
+- [x] Improving your model performance
 - [x] Gradient checking
 - [x] Gradient Checking Implementation Notes
 
