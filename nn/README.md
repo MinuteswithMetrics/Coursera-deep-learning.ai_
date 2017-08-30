@@ -73,37 +73,37 @@ This is the first course of the Deep Learning Specialization.
 ### Week 3 - Shallow neural networks
 
 **Shallow Neural Network**
-- [ ] Neural Networks Overview
-- [ ] Neural Network Representation
-- [ ] Computing a Neural Network's Output
-- [ ] Vectorizing across multiple examples
-- [ ] Explanation for Vectorized Implementation
-- [ ] Activation functions
-- [ ] Why do you need non-linear activation functions?
-- [ ] Derivatives of activation functions
-- [ ] Gradient descent for Neural Networks
-- [ ] Backpropagation intuition (optional)
+- [x] Neural Networks Overview
+- [x] Neural Network Representation
+- [x] Computing a Neural Network's Output
+- [x] Vectorizing across multiple examples
+- [x] Explanation for Vectorized Implementation
+- [x] Activation functions
+- [x] Why do you need non-linear activation functions?
+- [x] Derivatives of activation functions
+- [x] Gradient descent for Neural Networks
+- [x] Backpropagation intuition (optional)
 - [ ] Random Initialization
 
 **Practice Questions**
 - [ ] Quiz: Shallow Neural Networks
 
 **Programming Assignment**
-- [ ] Programming Assignment: Planar data classification with a hidden layer
+- [x] Programming Assignment: Planar data classification with a hidden layer
 
 ---
 
 ### Week 4 - Deep Neural Networks
 
-- [ ]  Deep L-layer neural network
-- [ ]  Forward and Backward Propagation
-- [ ]  Forward Propagation in a Deep Network
-- [ ]  Getting your matrix dimensions right
-- [ ]  Why deep representations?
-- [ ]  Building blocks of deep neural networks
-- [ ]  Parameters vs Hyperparameters
-- [ ]  What does this have to do with the brain?
+- [x]  Deep L-layer neural network
+- [x]  Forward and Backward Propagation
+- [x]  Forward Propagation in a Deep Network
+- [x]  Getting your matrix dimensions right
+- [x]  Why deep representations?
+- [x]  Building blocks of deep neural networks
+- [x]  Parameters vs Hyperparameters
+- [x]  What does this have to do with the brain?
 
 **Programming Assignment**
-- [ ] Building your Deep Neural Network: Step by Step
-- [ ] Deep Neural Network - Application
+- [x] Building your Deep Neural Network: Step by Step
+- [x] Deep Neural Network - Application
